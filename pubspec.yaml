@@ -1,4 +1,4 @@
-name: flutter_grid_view_card_listtile
+name: MysMhopMini
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -20,6 +20,4 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-    - assets/images/
-
+  
